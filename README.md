@@ -26,9 +26,8 @@ pip (Python package installer)
 OpenCV
 MediaPipe
 NumPy
-Clone the Repository
 
-git clone https://github.com/yourusername/pose-exercise-counter.git
+
 cd pose-exercise-counter
 Install Dependencies
 
